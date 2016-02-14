@@ -5,6 +5,7 @@ The input is described in the README.txt of the downloaded input (see "UCI HAR D
 The output represents the average of each variable for each activity and each subject. Each variable is represented by a column, and each activity / subject is represented by a row. 
 
 # Column Names
+<pre>
 "1" "tBodyAcc-mean()-X"
 "2" "tBodyAcc-mean()-Y"
 "3" "tBodyAcc-mean()-Z"
@@ -71,6 +72,7 @@ The output represents the average of each variable for each activity and each su
 "64" "fBodyBodyGyroMag-std()"
 "65" "fBodyBodyGyroJerkMag-mean()"
 "66" "fBodyBodyGyroJerkMag-std()"
+</pre>
 
 # Column Names
 1                  LAYING
