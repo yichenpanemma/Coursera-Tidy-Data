@@ -75,7 +75,7 @@ The resulting data frame has 66 rows
 66  fBodyBodyGyroJerkMag-std()
 </pre>
 
-# Column Names ()
+# Column Names 
 The resulting data frame has 36 columns
 <pre>
 1                  LAYING
